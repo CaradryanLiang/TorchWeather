@@ -1,0 +1,6 @@
+torch-scatter 
+torch-sparse 
+torch-cluster 
+torch-spline-conv 
+torchcubicspline @ git+https://github.com/patrick-kidger/torchcubicspline.git
+torchdiffeq

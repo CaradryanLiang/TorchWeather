@@ -1,18 +1,12 @@
+numpy
+torch==2.1.0
 xarray
 netcdf4
 dask
 xesmf
 fire
-numpy
 matplotlib
 seaborn
 configargparse
-tensorflow>=2.0
 cdsapi
-pytorch==2.1.0
-torch-scatter 
-torch-sparse 
-torch-cluster 
-torch-spline-conv 
-torchcubicspline
-torchdiffeq
+--extra-index-url https://download.pytorch.org/whl/cu118
